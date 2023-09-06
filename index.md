@@ -1,12 +1,5 @@
-# <h1>Welcome 
-# <h4> This my first time making this time of things in github.
+# This is an `<h1>` header, which is the largest
 
+## This is an `<h2>` header
 
-
-
-
-
-
-
-
-# <h6> created an intro in the pull request of markdown 
+###### This is an `<h6>` header, which is the smallest
