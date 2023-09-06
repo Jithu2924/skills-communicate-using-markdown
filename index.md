@@ -6,3 +6,7 @@
 
 # alt-text
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# <h4>$ git init
+# <h4>Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+# <h4>var myVar = "Hello, world!";
